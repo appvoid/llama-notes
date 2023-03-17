@@ -1,6 +1,6 @@
 # llama notes
 
-### 10 Facts & Comments Collection
+### 15 Facts & Comments Collection
 1. The hype on Twitter is surreal. llama models are not that powerful. At least not the smaller ones.
 2. Benchmarks are little bit wrong. The more you use the model, the more you realize the subtle differences, weaknesess and strengths.
 3. `llama-7b` is good, better than `gpt-j-6b` and `text-curie-001` but worse than `text-davinci-002`
@@ -15,3 +15,8 @@
 - `llama-alpaca-13b` <= `text-davinci-003`
 - `llama-alpaca-30b` <= `gpt-3.5-turbo`
 - `llama-alpaca-65b` <= `gpt-4`
+11. A lot of people is simply loading those gigantic models not realizing that better use of gpu's vram is possible when using 4bit quantizing.
+12. It's easy (and scary) to assume that right now, any smart-enough researcher with a relatively powerful gpu and training could (almost accidentally) oversee what none of us know and make an AGI sooner or later.
+13. The statement above is even more scary when a lot of people dont't believe or even care that an AGI with this kind of technology is possible.
+14. I bet llama models will surely reach gpt-4 level sooner or later.
+15. Hopefully OpenAI, Google or Anthropic make an AGI before some random guy discovers how to overpower humanity itself, supposing that those companies don't do it first hahaha
