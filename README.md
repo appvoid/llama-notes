@@ -19,4 +19,4 @@
 12. It's easy (and scary) to assume that right now, any smart-enough researcher with a relatively powerful gpu and training could (almost accidentally) oversee what none of us know and make an AGI sooner or later.
 13. The statement above is even more scary when a lot of people dont't believe or even care that an AGI with this kind of technology is possible.
 14. I bet llama models will surely reach gpt-4 level sooner or later.
-15. Hopefully OpenAI, Google or Anthropic make an AGI before some random guy discovers how to overpower humanity itself, supposing that those companies don't do it first hahaha
+15. Hopefully OpenAI or Google make an AGI before some random guy discovers how to overpower humanity itself, supposing that those companies don't do it first hahaha
