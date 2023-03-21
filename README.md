@@ -5,7 +5,7 @@
 2. Benchmarks are little bit wrong. The more you use the model, the more you realize the subtle differences, weaknesess and strengths.
 3. `llama-7b` is good, better than `gpt-j-6b` and `text-curie-001` but worse than `text-davinci-002`
 4. `llama-13b` is as good as `text-davinci-002` when using a good prompt, in a multillingual setting though, is not that good.
-5. I haven't tested `llama-30b` yet but given the observed tendency on performance, is presumably at the same level as text-davinci-003
+5. I haven't tested `llama-30b` yet but given the observed tendency on performance, is presumably at the same level as `text-davinci-003`
 6. The same goes for `llama-65b`, I assume it's just a little worse than `gpt-3.5-turbo`.
 7. Notice that I'm talking about vanilla performance here, and that's why I understand the hype.
 8. If a base model reaches similar performance to a fine-tuned one, that means that simply it's better.
