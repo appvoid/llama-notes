@@ -36,7 +36,7 @@
 12. The fact that Microsoft claims that `gpt-4` has "sparks of AGI" is also something concerning. If it is true, there is nothing but OpenAI stopping people from fine-tunning `llama-65b` from `gpt-4` data. If we make a lot of "sparks" accesible, this could result into a fire, maybe literally.
 13. As data continues to become accesible, people are less worried of not knowing something, this is a direct consequence of letting too much work to technology, this fact also applies to models like `gpt-j`, `gpt-neo`, `cerebras-gpt` and `gpt-2`. LLaMA models are just making this automated case scenario easier.
 14. I'm repeating myself, but for the sake of leaving it pretty clear: 
-- If gpt-4 reaches AGI, llama could do it
+- If gpt-4 reaches AGI, llama could do it.
 - If llama can do it. We all can do it.
-- If we all can do it, supposing that there is just one person that wants to watch the world burn, will try it.
+- If we all can do it, supposing the best case scenario, where there is just one person in the whole world which wants to watch the world burn, will try it.
 15. As final fact, once we get LLaMA (or a better model) to be multimodal, I bet we will be entering, soon or later, to the age of highly optimized, safer robot assistants.
