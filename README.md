@@ -30,7 +30,7 @@
 6. We also can use Vicuna, a 13b model which at the least on performance, is on par with powerful models like `bard` and `gpt-3.5-turbo`.
 7. The fact that this level of quality was possible to achieve with maybe just one or two guys on a laptop it's amazing.
 8. Also, terrifying since while a lot of ethical devs are asking for a license change for commercial purposes, there should already be a lot of companies using it specifically for profit. 
-9. Also, if that's the case, given the high quality output of these models, no one would notice it. `bard` or `gpt-4` could be as well better finetuned llama models and no soul would notice it.
+9. Also, if that's the case, given the high quality output of these models, no one would notice it. `bard` or `gpt-4` could be as well better fine-tuned llama models and no soul would notice it.
 10. Seems like `vicuna-7b` is on the road. Hopefully it's better than `gpt4all`.
 11. Fine-tuning llama models now seems to be possible even on a low-end 8gb vram card. That's crazy.
 12. The fact that Microsoft claims that `gpt-4` has "sparks of AGI" is also something concerning. If it is true, there is nothing but OpenAI stopping people from fine-tunning `llama-65b` from `gpt-4` data. If we make a lot of "sparks" accesible, this could result into a fire, maybe literally.
