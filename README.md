@@ -34,7 +34,7 @@
 10. Seems like `vicuna-7b` is on the road. Hopefully it's better than `gpt4all`.
 11. Fine-tuning llama models now seems to be possible even on a low-end 8gb vram card. That's crazy.
 12. The fact that Microsoft claims that `gpt-4` has "sparks of AGI" is also something concerning. If it is true, there is nothing but OpenAI stopping people from fine-tunning `llama-65b` from `gpt-4` data. If we make a lot of "sparks" accesible, this could result into a fire, maybe literally.
-13. As data continues to become accesible, people are less worried of not knowing something, this is a direct consequence of letting too much work to techonology, this fact also applies to models like `gpt-j`, `gpt-neo`, `cerebras-gpt` and `gpt-2`. LLaMA models are just making this automated case scenario easier.
+13. As data continues to become accesible, people are less worried of not knowing something, this is a direct consequence of letting too much work to technology, this fact also applies to models like `gpt-j`, `gpt-neo`, `cerebras-gpt` and `gpt-2`. LLaMA models are just making this automated case scenario easier.
 14. I'm repeating myself, but for the sake of leaving it pretty clear: 
 - If gpt-4 reaches AGI, llama could do it
 - If llama can do it. We all can do it.
