@@ -20,7 +20,7 @@
 13. The statement above is even more scary when a lot of people dont't believe or even care that an AGI with this kind of technology is possible.
 14. I bet llama models will surely reach gpt-4 level sooner or later.
 15. Hopefully OpenAI or Google make an AGI before some random guy discovers how to overpower humanity itself, supposing that those companies don't do it first...
-
+---
 ### 15 Facts & Comments Collection 1st Update: 4/4/2023
 1. LLaMA models are actually pretty useless as factual agents yet a lot more powerful than expected when it comes to creative work generation.
 2. llama.cpp got an update that let's you run 30b with just 6gb of ram.
@@ -40,3 +40,24 @@
 - If llama can do it. We all can do it.
 - If we all can do it, supposing the best case scenario, where there is just one person in the whole world which wants to watch the world burn, will try it.
 15. As final fact, once we get LLaMA (or a better model) to be multimodal, I bet we will be entering, soon or later, to the age of highly optimized, safer robot assistants.
+---
+### 15 Facts & Comments Collection 1st Update: 4/17/2023
+1. LLaMA models are still being fine-tuned.
+2. Finetunings are amazing but not that good as `vicuna-13b` which is the king at the time of this writting.
+3. Based on personal tests on instructional prompts, i've found that:
+- `vicuna-7b` > `gpt4all-7b`
+- `koala-7b` > `vicuna-7b`
+- `koala-13b` > `koala-7b`
+- `vicuna-13b` > `koala-13b`
+4. It seems like `vicuna-13b` is better at objective knowledge, while llama variations: `gpt-4-x-alpaca`, `alpaca-13b`, `koala-13b` are all more "creative" variations than objective, instruction-following models. These doesn't mean they are bad though, since these models are better for brainstorming ideas.
+5. I gathered the most researching-purpose, useful models and fine-tuned ones, these models use the ggml weights structure. So are "lightweight" versions.
+6. The collection contains models from openai, meta and eleuther.ai, including: gpt-2, gpt-j, llama and bloom, including also, relevant variations from these models, like cerebras, alpaca, codegen, vicuna, etc...
+7. You need at least ~180 gb of free disk space if you would like to get an idea.
+8. I haven't tested all models right now, but if I would have to choose only two from an instructional perspective, given `text-davinci-003` as the standard, I would of course stay with: `koala-7b` and `vicuna-13b`, those are the best GPT-3-like-experience models I have proved to be good following instructions till now.
+9. Meta is not making any move concerning to the weights, code and data licenses. Probably they will leave it as so to avoid controversy.
+10. `vicuna-33b` doesn't exist yet.
+11. People is starting to use LLMs to evaluate LLMs: `gpt-4` evaluates which one is better between `vicuna` and `koala`. What a time to be alive.
+12. AutoGPT is not an AGI per se. But it's slowly becoming one. The knowledge of `gpt-4` is yet to be discovered, so expect that AGI will be reached on the next iteration.
+13. Speaking about next iteration, `gpt-5` it's rumored to be a reality on December, so you got AGI for christmas!
+14. Yes, you heard right, AGI. If `gpt-5` outperforms `gpt-4` the same way `gpt-4` outperformed `gpt-3.5`, that would be something concerning and would prove my theory that LLlaMA models, specially bigger ones, will be causing a lot of impact on society when finally get trained on the till now, hypothetical model.
+15. We are in a time were people is still discussing if AGI is real or possible, the real question is, will LLaMA models get to that point or are we going to choose another path?
